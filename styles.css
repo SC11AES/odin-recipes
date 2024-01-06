@@ -1,0 +1,16 @@
+/* styles.css  */
+
+div{
+    color:white;
+    background-color: blue;
+}
+
+p{
+    color:red;
+    background-color: aqua;
+}
+
+li{
+    color: azure;
+    background-color: blueviolet;
+}
